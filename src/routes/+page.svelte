@@ -104,7 +104,7 @@
 
 
 
-<div class="bg-[url('images/background.jpg')] h-screen text-gray-700">
+<div class="bg-pink-400 h-screen text-gray-700">
     <div class="flex justify-center">
         <h1 class="text-center text-3xl font-bold bg-pink-300 w-1/3 border-4 border-pink-400 rounded-xl">From Alex to Fifi</h1>
     </div>
