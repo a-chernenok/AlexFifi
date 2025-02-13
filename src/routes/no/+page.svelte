@@ -1,5 +1,5 @@
 
-<div class="flex flex-col items-center justify-center h-screen bg-[url('images/background.jpg')] text-center">
+<div class="flex flex-col items-center justify-center h-screen bg-pink-300 text-center">
     <img src="last-day-of-school.gif" alt="Sad Valentine" class="w-72 mb-5" /> <!-- Adjust size as needed -->
     <h1 class="text-3xl font-bold text-gray-700">Oh no! 💔</h1>
     <p class="text-xl text-gray-600">I guess I wasn’t chosen as your Valentine...</p>

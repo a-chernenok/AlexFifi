@@ -1,4 +1,4 @@
-<div class="bg-pink-100 h-screen flex flex-col items-center justify-center text-center">
+<div class="bg-pink-200 h-screen flex flex-col items-center justify-center text-center">
     <h1 class="text-4xl font-bold text-purple-600 mb-4">Yay! 🎉</h1>
     <p class="text-lg text-gray-700 mb-8">I'm so glad you said yes! 💖</p>
     <img src="gal-happy.gif" alt="Cute Illustration" class="w-1/2 max-w-xs mb-8 rounded-lg shadow-lg" />
